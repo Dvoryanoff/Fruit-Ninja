@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58aa8de9-4375-4dc9-a968-2cd62c66e213" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Blade.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FruitNinja.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FruitNinja.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Blade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Blade.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655142278496</updated>
       <workItem from="1655142282174" duration="2492000" />
-      <workItem from="1655211560467" duration="2522000" />
+      <workItem from="1655211560467" duration="3228000" />
     </task>
     <servers />
   </component>

@@ -1,16 +1,10 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
-using Unity.Collections;
 using Unity.Mathematics;
 using UnityEngine;
-using UnityEngine.XR;
 
 public class Fruit : MonoBehaviour
 {
     public GameObject whole;
-    public GameObject sliced; 
+    public GameObject sliced;
     private Rigidbody fruitRigidbody;
     private Collider fruitCollider;
 
@@ -33,7 +27,6 @@ public class Fruit : MonoBehaviour
             slice.velocity = fruitRigidbody.velocity;
             slice.AddForceAtPosition(direction * force, position, ForceMode.Impulse);
         }
-
     }
 
     private void OnTriggerEnter(Collider other)

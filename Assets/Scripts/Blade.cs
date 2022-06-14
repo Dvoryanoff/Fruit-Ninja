@@ -10,8 +10,10 @@ public class Blade : MonoBehaviour
     private Collider bladeCollider;
     private TrailRenderer bladeTrail;
     public float minSliceVelocity = 0.01f;
-    
-    public Vector3 direction  { get; private set; }
+    public float sliceForce = 5f;
+
+    public Vector3 direction { get; private set; }
+
     private void Awake()
 
     {
@@ -36,7 +38,7 @@ public class Blade : MonoBehaviour
             StartSlicing();
         } else if (Input.GetMouseButtonUp(0)) {
             StopSlicing();
-        } else if (slicing){
+        } else if (slicing) {
             continueSlicing();
         }
     }
@@ -69,4 +71,3 @@ public class Blade : MonoBehaviour
         transform.position = newPositon;
     }
 }
-

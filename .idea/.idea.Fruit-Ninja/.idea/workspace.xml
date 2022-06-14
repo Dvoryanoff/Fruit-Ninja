@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58aa8de9-4375-4dc9-a968-2cd62c66e213" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FruitNinja.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FruitNinja.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Fruit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fruit_Base.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fruit_Base.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Blade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Blade.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +37,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fruit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Blade.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13E65460-58E3-40AD-A820-E34DCE3B245E/a2/2005f070/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -41,10 +46,14 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Blade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Fruit.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2AX3odWRP2aDPp4jEbSJ976OnpX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +68,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -76,7 +85,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\V\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655142278496</updated>
       <workItem from="1655142282174" duration="2492000" />
-      <workItem from="1655211560467" duration="3228000" />
+      <workItem from="1655211560467" duration="6182000" />
     </task>
     <servers />
   </component>
@@ -105,5 +114,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="97" key="SettingsEditor" timestamp="1655218406689">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="277" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1655218406689" />
   </component>
 </project>

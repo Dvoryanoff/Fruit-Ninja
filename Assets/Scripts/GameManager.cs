@@ -5,6 +5,14 @@ public class GameManager : MonoBehaviour
 {
     public TMP_Text scoreText;
     private int score;
+    private Blade blade;
+    private Spawner spawner;
+
+    private void Awake()
+    {
+        blade = FindObjectOfType<Blade>();
+        spawner = FindObjectOfType<Spawner>();
+    }
 
     private void Start()
     {
@@ -21,5 +29,11 @@ public class GameManager : MonoBehaviour
     {
         score += amount;
         scoreText.text = score.ToString();
+    }
+
+    public void Explode()
+    {
+        spawner.enabled = false;
+        blade.enabled = false;
     }
 }

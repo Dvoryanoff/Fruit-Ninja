@@ -1,12 +1,25 @@
+using TMPro;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    { }
+    public TMP_Text scoreText;
+    private int score;
 
-    // Update is called once per frame
-    void Update()
-    { }
+    private void Start()
+    {
+        NewGame();
+    }
+
+    private void NewGame()
+    {
+        score = 0;
+        scoreText.text = score.ToString();
+    }
+
+    public void IncreaseScore()
+    {
+        score++;
+        scoreText.text = score.ToString();
+    }
 }

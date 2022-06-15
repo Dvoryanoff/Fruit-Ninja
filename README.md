@@ -1,2 +1,2 @@
-# Fruit-Ninja
+# Fruit-Ninja Game
 Fruit Ninja Game

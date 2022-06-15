@@ -35,10 +35,13 @@ public class GameManager : MonoBehaviour
 
     private void ClearScene()
     {
+        // Fade out...
+
         Fruit[] fruits = FindObjectsOfType<Fruit>();
         foreach (Fruit fruit in fruits) {
             Destroy(fruit.gameObject);
         }
+        // Fade in...
 
         Bomb[] bombs = FindObjectsOfType<Bomb>();
         foreach (Bomb bomb in bombs) {

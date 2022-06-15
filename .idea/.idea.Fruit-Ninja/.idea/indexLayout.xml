@@ -16,7 +16,6 @@
       <Path>../../../../Users/V/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.visualscripting@1.7.6</Path>
     </attachedFolders>
     <explicitIncludes>
-      <Path>Assets</Path>
       <Path>Library/PackageCache/com.unity.2d.sprite@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.burst@1.6.6</Path>
       <Path>Library/PackageCache/com.unity.collab-proxy@1.15.12</Path>

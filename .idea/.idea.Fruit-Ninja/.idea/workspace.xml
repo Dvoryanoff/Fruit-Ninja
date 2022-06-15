@@ -19,15 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58aa8de9-4375-4dc9-a968-2cd62c66e213" name="Default Changelist" comment="Made Bomb prefab">
+    <list default="true" id="58aa8de9-4375-4dc9-a968-2cd62c66e213" name="Default Changelist" comment="Add Spawning th Bomb and Stop Spawn when lose">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/Bomb.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Bomb.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/BombWick.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/BombWick.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bomb.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bomb.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/FruitNinja.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FruitNinja.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bomb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bomb.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +100,7 @@
       <updated>1655142278496</updated>
       <workItem from="1655142282174" duration="2492000" />
       <workItem from="1655211560467" duration="7701000" />
-      <workItem from="1655295825482" duration="2817000" />
+      <workItem from="1655295825482" duration="4612000" />
     </task>
     <task id="LOCAL-00001" summary="I Can Slice optmzd.">
       <created>1655221492011</created>
@@ -148,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655297788086</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Spawning th Bomb and Stop Spawn when lose">
+      <created>1655298899811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655298899811</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +177,8 @@
     <MESSAGE value="Implement &quot;score&quot; to scene, &quot;score changes&quot;" />
     <MESSAGE value="Score: all fruits cost differently" />
     <MESSAGE value="Made Bomb prefab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Bomb prefab" />
+    <MESSAGE value="Add Spawning th Bomb and Stop Spawn when lose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Spawning th Bomb and Stop Spawn when lose" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -183,9 +187,9 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="277" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1655218406689" />
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655297804179">
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655298916881">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655297804179" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655298916881" />
   </component>
 </project>

@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58aa8de9-4375-4dc9-a968-2cd62c66e213" name="Default Changelist" comment="I Can Slice optmzd.">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fruit-Ninja/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Apple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Apple.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fruit_Base.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fruit_Base.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Kiwi.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Kiwi.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Lemon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Lemon.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Orange.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Orange.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Watermelon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Watermelon.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Fruit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Fruit.cs" afterDir="false" />
-    </list>
+    <list default="true" id="58aa8de9-4375-4dc9-a968-2cd62c66e213" name="Default Changelist" comment="I Can Slice optmzd." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +40,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Blade.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Fruit.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2AX3odWRP2aDPp4jEbSJ976OnpX" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -124,6 +116,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I Can Slice optmzd." />
